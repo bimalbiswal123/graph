@@ -1,0 +1,39 @@
+// Directed Graph
+digraph {
+	1 [label=A]
+	2 [label=B]
+	3 [label=C]
+	4 [label=A]
+	5 [label=B]
+	6 [label=C]
+	7 [label=A]
+	8 [label=B]
+	9 [label=C]
+	10 [label=A]
+	11 [label=B]
+	12 [label=C]
+	13 [label=A]
+	14 [label=B]
+	15 [label=C]
+	16 [label=A]
+	17 [label=B]
+	18 [label=C]
+	1 -> 2
+	2 -> 3
+	3 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 1
+}
